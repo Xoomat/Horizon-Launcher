@@ -1,0 +1,11 @@
+D:\Aetheris\Source\HorizonDSDK\bin\Debug\DiscordRPC.xml
+D:\Aetheris\Source\HorizonDSDK\bin\Debug\Newtonsoft.Json.xml
+D:\Aetheris\Source\HorizonDSDK\obj\Debug\HorizonDSDK.csproj.AssemblyReference.cache
+D:\Aetheris\Source\HorizonDSDK\obj\Debug\HorizonDSDK.csproj.CoreCompileInputs.cache
+D:\Aetheris\Source\HorizonDSDK\obj\Debug\HorizonDSDK.csproj.Fody.CopyLocal.cache
+D:\Aetheris\Source\HorizonDSDK\obj\Debug\HorizonDSDK.csproj.Fody.RuntimeCopyLocal.cache
+D:\Aetheris\Source\HorizonDSDK\obj\Debug\HorizonD.7B2B805D.Up2Date
+D:\Aetheris\Source\HorizonDSDK\bin\Debug\horizon_d_sdk.dll
+D:\Aetheris\Source\HorizonDSDK\bin\Debug\horizon_d_sdk.pdb
+D:\Aetheris\Source\HorizonDSDK\obj\Debug\horizon_d_sdk.dll
+D:\Aetheris\Source\HorizonDSDK\obj\Debug\horizon_d_sdk.pdb

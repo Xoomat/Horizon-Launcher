@@ -1,0 +1,6 @@
+D:\Aetheris\Source\HorizonN7\bin\Debug\horizon_n7.dll
+D:\Aetheris\Source\HorizonN7\bin\Debug\horizon_n7.pdb
+D:\Aetheris\Source\HorizonN7\obj\Debug\HorizonN7.csproj.AssemblyReference.cache
+D:\Aetheris\Source\HorizonN7\obj\Debug\HorizonN7.csproj.CoreCompileInputs.cache
+D:\Aetheris\Source\HorizonN7\obj\Debug\horizon_n7.dll
+D:\Aetheris\Source\HorizonN7\obj\Debug\horizon_n7.pdb
